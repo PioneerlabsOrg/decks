@@ -1,0 +1,18 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+Reverse\page $H\'e2D$\'cb\'94\uc0\u8730 \'cb*H\page %(\uc0\u8730 H\'e2$H\'e2L$H\'e2\\$\'cb\'b8\u8706 D$\'ce\'ff\'cb\u8734 G\u8730 \'c3\'c3\'c3\'c3\'c3eH\'e3\page %(\uc0\u8730 \'cb2G\page %(\uc0\u8730 \'cb\'93F\page %(\uc0\u8730 \'cbrF\page %(\uc0\u8730 \'cbF\page %(\uc0\u8730 \'cb\u8804 E\page %(\page $H\'e3D$8H\'e2D$\'cbH^\uc0\u8730 \'cbOE\page %(\uc0\u728 \'c5\'b7\'d4\'e9\'e0\'ae\'97\'821\'a0\'e2\'ea\'cf\u960 !\'b6Vj\'b0nu\u8719 \'f8c\'e8\'aak\'d4R\u8730 H\'e2$H\'e3D$8H\'e2D$H\'abD$\u8730 H\u8719 !\'b6Vj\'b0nu\u960 \'f8c\'e8\'aak\'d4R\u8730 \'cb3D\u731 \u711 \u711 \'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3eH\'e3\page %(\uc0\u63743 \u728 \'c5\'b7\'d4\'e9\'e0\'ae\'97\'821\'a0\'e2\'ea\'cf\u960 !\'b6Vj\'b0nu\u8719 \'f8c\'e8\'aak\'d4R\u8730 H\'e2$H\'e3D$8H\'e2D$H\'abD$\u8730 H\u8719 !\'b6Vj\'b0nu\u960 \'f8c\'e8\'aak\'d4R\u8730 \'cbC\u731 \u711 \u711 \'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3eH\'e3\page %(\uc0\u733 \u711 \u711 H\'e3D$(H\'c9\'bfH\'e3L$H\'e2$H\'e2L$\'cbf\u733 \u711 \u711 H\'e3D$H\'e2D$8H\'e3l$H\'c9\'83 \u8730 \'cb\'e7B\page %(\uc0\u731 \u711 \u711 H\'e3D$(H\'c9\'bfH\'e3L$H\'e2$H\'e2L$\'cb\u731 \u711 \u711 H\'e3D$H\'e2D$8H\'e3l$H\'c9\'83 \u8730 \'cb\
+B\page %(\uc0\u8706 I\'88\'a1 tFH\'c9\'bfH\'e2$H\u8719 !\'b6Vj\'b0nu\u711 \'96H\'e3D$H\u960 \'f8c\'e8\'aak\'d4R\u8730 H\'e3@H\'e2$H\u8719 !\'b6Vj\'b0nu\u711 \'96H\'e3D$H\u960 \'f8c\'e8\'aak\'d4R\u8730 H\'e3D$`H\'e2D$hH\'e3l$HH\'c9\'83P\u8730 H\'e2\page $\'cbA\'87\uc0\u937 \'c0\page $H\'e2D$\'cb\'92\'a9\
+Endendend\
+MZ\'ea\uc0\u711 \u711 \u8747 \u8719 L\'d5!This program cannot be run in DOS mode.\
+\
+$\page \uc0\u63743 \u8734 \'ee\u8734 \'ae\u731 \u733 \
+\
+\uc0\u733 \
+\uc0\u8730 \u63743 \u8706 *\u8719 *\u731 \u711  Go build ID: "b179327d9bf940fdc44b5df277558b7ed35cab84"\
+ \uc0\u711 \'c3\'c3\'c3\'c3H\'abD$\u729 \u711 uH\'abD$\u8730 H\'e3@H\'e2L$H\'e2D$\u8730 \'c3\'c3\'c3\'c3\'c3\'c3eH\'e3\page %(\uc0\u729 \u711 t\'cdH\'e3T$8H9\'97\'d6\'fb\u8730 \'cb \'e9\u711 \u711 \u711 \u711 \'cb0\u8706 D$\'d1\'bfu\page \'cb2\'e9\page $\'cb\'d8\uc0\u8730 H\'e7\'97\'a3\'c4\u8804 \u8805 \'a3\'c4\u8804 \u731 \u711 \u711 \'c3\'c3\u8730 \'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c8\u63743 H\'b1M\u8730 \'c3\'c3\'c3\'c3\'c3\'c8\u63743 \'a1E\u8730 \'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3H\'e3l$\'e3D$\'e1E\u8730 \'c3\'c3\'c3H\'e3l$H\'e3D$H\'e1E\u8730 \'c3\'c8\'ce\u711 \u711 \u711 \'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3\'c3eH\'e3\page %(}
